@@ -1,4 +1,5 @@
-package com.example.scala
+package com.example.scala.statements.string;
+
 
 object StringExamples {
   

@@ -1,4 +1,4 @@
-package com.example.scala
+package com.example.scala.statements.functions
 
 /* Scala - Currying
  *  Currying is the technique of transforming a function
