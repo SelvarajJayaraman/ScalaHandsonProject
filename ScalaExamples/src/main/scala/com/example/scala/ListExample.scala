@@ -4,6 +4,8 @@ object ListExample {
   
   val mylist: List[Int] = List(3,7,10,15);
   
+  val names: List[String] = List("Max","Selva","kumar");
+  
   def main(args: Array[String]){
     
     println(mylist);
@@ -17,6 +19,10 @@ object ListExample {
     
     for( x <- mylist){
       println(x);
+    }
+    
+    for( y <- names){
+      println(y);
     }
   }
 }
