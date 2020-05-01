@@ -1,4 +1,4 @@
-package com.example.scala.statements.string
+package com.example.scala.string
 
 object StringInterpolation {
   

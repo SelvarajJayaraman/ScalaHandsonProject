@@ -1,4 +1,4 @@
-package com.example.scala.statements.collections
+package com.example.scala.collections
 
 object ListExample {
   

@@ -8,7 +8,7 @@
  *  2.Proper closure
  */
 
-package com.example.scala.statements.functions
+package com.example.scala.functions
 
 object Closures {
   
