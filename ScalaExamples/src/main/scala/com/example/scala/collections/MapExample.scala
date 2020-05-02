@@ -23,7 +23,7 @@ object MapExample {
       println("Value:" + mymap1(key));
     }
     
-    //Concat two maps.
+    //concat two maps.
     println(mymap1 ++ mymap2);
   }
 }
